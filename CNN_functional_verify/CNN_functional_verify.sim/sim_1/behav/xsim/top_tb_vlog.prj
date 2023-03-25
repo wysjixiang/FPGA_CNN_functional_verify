@@ -1,0 +1,27 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../CNN_functional_verify.srcs/sources_1/new/FC1.v" \
+"../../../../CNN_functional_verify.srcs/sources_1/new/FP16_add.v" \
+"../../../../CNN_functional_verify.srcs/sources_1/new/FP16_mult.v" \
+"../../../../CNN_functional_verify.srcs/sources_1/new/FP16_reciprocal.v" \
+"../../../../CNN_functional_verify.srcs/sources_1/new/Relu.v" \
+"../../../../CNN_functional_verify.srcs/sources_1/new/con_max_fc_relu_layer.v" \
+"../../../../CNN_functional_verify.srcs/sources_1/new/convo_control.v" \
+"../../../../CNN_functional_verify.srcs/sources_1/new/convo_layer.v" \
+"../../../../CNN_functional_verify.srcs/sources_1/new/exponent_and_reciprocal.v" \
+"../../../../CNN_functional_verify.srcs/sources_1/new/exponent_compute.v" \
+"../../../../CNN_functional_verify.srcs/sources_1/new/max_compare.v" \
+"../../../../CNN_functional_verify.srcs/sources_1/new/maxpooling.v" \
+"../../../../CNN_functional_verify.srcs/sources_1/new/node_compute.v" \
+"../../../../CNN_functional_verify.srcs/sources_1/new/node_relu.v" \
+"../../../../CNN_functional_verify.srcs/sources_1/new/pooling_via_row.v" \
+"../../../../CNN_functional_verify.srcs/sources_1/new/softmax.v" \
+"../../../../CNN_functional_verify.srcs/sources_1/new/softmax_func.v" \
+"../../../../CNN_functional_verify.srcs/sources_1/new/top_layer.v" \
+"../../../../CNN_functional_verify.srcs/sim_1/new/top_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

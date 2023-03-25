@@ -1,0 +1,25 @@
+0.6
+2017.4
+Dec 15 2017
+21:07:18
+D:/Vivado_Project/CNN_functional_verify/CNN_functional_verify.sim/sim_1/behav/xsim/glbl.v,1513215259,verilog,,,,glbl,,,,,,,,
+D:/Vivado_Project/CNN_functional_verify/CNN_functional_verify.srcs/sim_1/new/con_max_fc_tb.v,1679736728,verilog,,,,con_max_fc_tb,,,,,,,,
+D:/Vivado_Project/CNN_functional_verify/CNN_functional_verify.srcs/sim_1/new/top_tb.v,1679766459,verilog,,,,top_tb,,,,,,,,
+D:/Vivado_Project/CNN_functional_verify/CNN_functional_verify.srcs/sources_1/new/FC1.v,1679738067,verilog,,D:/Vivado_Project/CNN_functional_verify/CNN_functional_verify.srcs/sources_1/new/FP16_add.v,,FC,,,,,,,,
+D:/Vivado_Project/CNN_functional_verify/CNN_functional_verify.srcs/sources_1/new/FP16_add.v,1679418944,verilog,,D:/Vivado_Project/CNN_functional_verify/CNN_functional_verify.srcs/sources_1/new/FP16_mult.v,,FP16_add,,,,,,,,
+D:/Vivado_Project/CNN_functional_verify/CNN_functional_verify.srcs/sources_1/new/FP16_mult.v,1679416819,verilog,,D:/Vivado_Project/CNN_functional_verify/CNN_functional_verify.srcs/sources_1/new/FP16_reciprocal.v,,FP16_mult,,,,,,,,
+D:/Vivado_Project/CNN_functional_verify/CNN_functional_verify.srcs/sources_1/new/FP16_reciprocal.v,1679734714,verilog,,D:/Vivado_Project/CNN_functional_verify/CNN_functional_verify.srcs/sources_1/new/Relu.v,,FP16_reciprocal,,,,,,,,
+D:/Vivado_Project/CNN_functional_verify/CNN_functional_verify.srcs/sources_1/new/Relu.v,1679483496,verilog,,D:/Vivado_Project/CNN_functional_verify/CNN_functional_verify.srcs/sources_1/new/con_max_fc_relu_layer.v,,Relu,,,,,,,,
+D:/Vivado_Project/CNN_functional_verify/CNN_functional_verify.srcs/sources_1/new/con_max_fc_relu_layer.v,1679768971,verilog,,D:/Vivado_Project/CNN_functional_verify/CNN_functional_verify.srcs/sources_1/new/convo_control.v,,con_max_fc_relu_layer,,,,,,,,
+D:/Vivado_Project/CNN_functional_verify/CNN_functional_verify.srcs/sources_1/new/convo_control.v,1679638620,verilog,,D:/Vivado_Project/CNN_functional_verify/CNN_functional_verify.srcs/sources_1/new/convo_layer.v,,convo_control,,,,,,,,
+D:/Vivado_Project/CNN_functional_verify/CNN_functional_verify.srcs/sources_1/new/convo_layer.v,1679296988,verilog,,D:/Vivado_Project/CNN_functional_verify/CNN_functional_verify.srcs/sources_1/new/exponent_and_reciprocal.v,,convo_layer,,,,,,,,
+D:/Vivado_Project/CNN_functional_verify/CNN_functional_verify.srcs/sources_1/new/exponent_and_reciprocal.v,1679769190,verilog,,D:/Vivado_Project/CNN_functional_verify/CNN_functional_verify.srcs/sources_1/new/exponent_compute.v,,exponent_and_sum_exp,,,,,,,,
+D:/Vivado_Project/CNN_functional_verify/CNN_functional_verify.srcs/sources_1/new/exponent_compute.v,1679636120,verilog,,D:/Vivado_Project/CNN_functional_verify/CNN_functional_verify.srcs/sources_1/new/max_compare.v,,exponent_compute,,,,,,,,
+D:/Vivado_Project/CNN_functional_verify/CNN_functional_verify.srcs/sources_1/new/max_compare.v,1679328736,verilog,,D:/Vivado_Project/CNN_functional_verify/CNN_functional_verify.srcs/sources_1/new/maxpooling.v,,find_FP16max,,,,,,,,
+D:/Vivado_Project/CNN_functional_verify/CNN_functional_verify.srcs/sources_1/new/maxpooling.v,1679638788,verilog,,D:/Vivado_Project/CNN_functional_verify/CNN_functional_verify.srcs/sources_1/new/node_compute.v,,maxpooling,,,,,,,,
+D:/Vivado_Project/CNN_functional_verify/CNN_functional_verify.srcs/sources_1/new/node_compute.v,1679638903,verilog,,D:/Vivado_Project/CNN_functional_verify/CNN_functional_verify.srcs/sources_1/new/node_relu.v,,node_compute,,,,,,,,
+D:/Vivado_Project/CNN_functional_verify/CNN_functional_verify.srcs/sources_1/new/node_relu.v,1679413464,verilog,,D:/Vivado_Project/CNN_functional_verify/CNN_functional_verify.srcs/sources_1/new/pooling_via_row.v,,node_relu,,,,,,,,
+D:/Vivado_Project/CNN_functional_verify/CNN_functional_verify.srcs/sources_1/new/pooling_via_row.v,1679638759,verilog,,D:/Vivado_Project/CNN_functional_verify/CNN_functional_verify.srcs/sources_1/new/softmax.v,,pooling_via_row,,,,,,,,
+D:/Vivado_Project/CNN_functional_verify/CNN_functional_verify.srcs/sources_1/new/softmax.v,1679769252,verilog,,D:/Vivado_Project/CNN_functional_verify/CNN_functional_verify.srcs/sources_1/new/softmax_func.v,,softmax,,,,,,,,
+D:/Vivado_Project/CNN_functional_verify/CNN_functional_verify.srcs/sources_1/new/softmax_func.v,1679734548,verilog,,D:/Vivado_Project/CNN_functional_verify/CNN_functional_verify.srcs/sources_1/new/top_layer.v,,softmax_func,,,,,,,,
+D:/Vivado_Project/CNN_functional_verify/CNN_functional_verify.srcs/sources_1/new/top_layer.v,1679764295,verilog,,D:/Vivado_Project/CNN_functional_verify/CNN_functional_verify.srcs/sim_1/new/top_tb.v,,top_layer,,,,,,,,

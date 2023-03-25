@@ -1,0 +1,11 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../CNN_functional_verify.srcs/sources_1/new/Relu.v" \
+"../../../../CNN_functional_verify.srcs/sources_1/new/node_relu.v" \
+"../../../../CNN_functional_verify.srcs/sim_1/new/relu_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

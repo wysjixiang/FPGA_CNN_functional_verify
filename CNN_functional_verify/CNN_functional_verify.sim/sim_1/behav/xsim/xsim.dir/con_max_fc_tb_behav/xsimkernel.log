@@ -1,0 +1,7 @@
+Running: xsim.dir/con_max_fc_tb_behav/xsimk.exe -simmode gui -wdb con_max_fc_tb_behav.wdb -simrunnum 0 -socket 55885
+Design successfully loaded
+Design Loading Memory Usage: 48296 KB (Peak: 48296 KB)
+Design Loading CPU Usage: 77 ms
+Simulation completed
+Simulation Memory Usage: 54964 KB (Peak: 54964 KB)
+Simulation CPU Usage: 109 ms
